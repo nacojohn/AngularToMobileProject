@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 0px;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+header {
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+}
+
+section#social-links {
+    background: rgba(0, 0, 0, 0.1);
+    color: #000;
+    height: 100%;
+}
+
+a i.fa {
+    border-radius: 10px;
+    color: #000;
+}
+
+.avarter-img img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.avarter-img {
+    overflow: hidden;
+}
